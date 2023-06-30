@@ -1,0 +1,52 @@
+.card{
+  width: 18rem;
+  gap: 1rem;
+  padding: 1rem;
+  margin-top: 2rem;
+  margin-left: 1rem;
+  height: calc(100vh -86px);
+  display: flex;
+  justify-content: center;
+}
+
+.cardDark{
+  background-color: #31313196;
+}
+
+.inputSpacing+.inputSpacing{
+  margin: 1rem 1;
+}
+
+
+h2 {
+  color: rgb(0, 0, 0);
+  font-size: 29px;
+  margin-left: 25px;
+}
+
+p {
+  color: rgb(18, 19, 18);
+  font-size: 17px;
+  margin-left: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: rgb(185, 86, 86);
+  color: white;
+  margin-bottom: 12px;
+ margin-left: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+ 
+}

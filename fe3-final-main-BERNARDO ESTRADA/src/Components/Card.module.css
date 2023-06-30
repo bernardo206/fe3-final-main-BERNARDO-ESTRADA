@@ -1,0 +1,26 @@
+.cardDark{
+  background-color: #31313196;
+}
+
+
+
+.favButton{
+  width: 100%;
+}
+
+
+.card:hover{
+  border: 0.5px solid rgb(206, 217, 142);
+}
+
+.CardBody{
+  width: 12vw;
+  height: 10vh;
+ 
+  
+ 
+}
+
+.title{
+  height: 1rem;
+}
